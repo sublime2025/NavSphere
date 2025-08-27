@@ -1,11 +1,11 @@
 name = "navsphere"
-compatibility_date = "2024-11-11"
+compatibility_date = "2025-08-27"
 compatibility_flags = ["nodejs_compat"]
 pages_build_output_dir = ".vercel/output/static"
 
 [env.production.vars]
-GITHUB_ID = "Ov23lig3bTXpZHrPO1c8"
-GITHUB_OWNER = "tianyaxiang"
+GITHUB_ID = "Ov23liXnthp7ue0Lm5KH"
+GITHUB_OWNER = "sublime2025"
 GITHUB_REPO = "NavSphere"
 GITHUB_BRANCH = "main"
 NEXTAUTH_URL = "https://dh.leti.ltd/api/auth"
